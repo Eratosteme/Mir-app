@@ -25,7 +25,7 @@ To run the Blobee Scan App, execute the following command:
 
 css
 
-python main.py
+python code.py
 
 Once the app is running, you will see a window with a "Capture" button. Press the button to capture a frame from the webcam. The captured frame will be processed using the implemented image recognition logic (placeholder code), and the processed frame will be displayed in the app's image widget.
 Customization
