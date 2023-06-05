@@ -1,4 +1,4 @@
-#Blobee Scan App
+# Blobee Scan App
 
 The Blobee Scan App is a mobile application designed to simplify the design and estimation of irrigation systems for crop fields. The app uses image recognition technology and cost estimation capabilities to identify the venous network of a model irrigation system and calculate the total length of water pipes.
 Prerequisites
@@ -14,12 +14,12 @@ You can install the dependencies using pip:
 pip install opencv-python
 pip install kivy
 
-#Getting Started
+# Getting Started
 
     Clone this repository to your local machine.
     Navigate to the project directory.
 
-#Usage
+# Usage
 
 To run the Blobee Scan App, execute the following command:
 
